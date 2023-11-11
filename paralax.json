@@ -1,0 +1,110 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Category 1",
+      "wallpaper_url": "https://i.pinimg.com/originals/7b/c8/3d/7bc83d33cdba5a9743b5db6750ae84f1.jpg"
+    },
+    {
+      "name_category": "Category 2",
+      "wallpaper_url": "https://i.pinimg.com/originals/b4/c8/f7/b4c8f70befd604af7575439f2ed41843.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Category 1",
+      "wallpaper_name": "Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/b4/c8/f7/b4c8f70befd604af7575439f2ed41843.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Category 2",
+      "wallpaper_name": "Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7e/57/b2/7e57b2f119dbc2ef993492b3fcdf7a35.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Category 1",
+      "wallpaper_name": "Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/originals/7b/c8/3d/7bc83d33cdba5a9743b5db6750ae84f1.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Category 2",
+      "wallpaper_name": "Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/873/406/HD-wallpaper-cute-dog-apple-cartoon-iphone-love-samsung.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "Category 1",
+      "wallpaper_name": "Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp4799113.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Category 2",
+      "wallpaper_name": "Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/35/20/85/3520853a723953291fd488f90f241169.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Category 1",
+      "wallpaper_name": "Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaperaccess.com/full/86105.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Category 2",
+      "wallpaper_name": "Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/da/68/42/da6842c18f5dac1053c81d5af2a39b21.jpg"
+    },
+	{
+      "id": 9,
+      "name_category": "Category 1",
+      "wallpaper_name": "Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/0e/05/6e/0e056ed427f9e7e0aa67fe400e7ef0ef.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Category 2",
+      "wallpaper_name": "Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaperaccess.com/full/111208.jpg"
+    }
+  ]
+}
